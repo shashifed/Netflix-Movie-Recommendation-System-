@@ -1,7 +1,8 @@
 # Netflix-Movie-Recommendation-System-
 A recommendation system, or recommender system tries to make predictions on user preferences and make recommendations which should interest customers.
 
-![Movies_img](https://user-images.githubusercontent.com/71769673/130322240-780e253b-eb91-450f-a7c6-9f37a5f61d96.jpg)
+![movies_collage](https://user-images.githubusercontent.com/71769673/130322308-afd9b2af-50d3-4e95-bfbd-f16573bc0d13.jpg)
+
 
 There are basically two approaches to make recommendations:
 
