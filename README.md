@@ -11,3 +11,20 @@ There are basically two approaches to make recommendations:
 2.Content-based filtering
 
 Content-based methods gives recommendations based on the similarity of two movie contents or attributes while collaborative methods make a prediction on posible preferences using a matrix with ratings on different songs.
+
+
+
+Brief Idea on Content Based Filtering 
+
+Content-based filtering methods are based on a description of the item and a profile of the user's preferences. These methods are best suited to situations where there is known data on an item (name, location, description, etc.), but not on the user. Content-based recommenders treat recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features.
+
+
+Advantages of Content Based Filtering 
+
+1.No data from other users is required to start making recommendations.
+
+2.Recommendations are highly relevant to the user.
+
+3.Recommendations are transparent to the user.
+
+4.Content-based filtering systems are generally easier to create.
