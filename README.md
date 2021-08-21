@@ -7,9 +7,9 @@ A recommendation system, or recommender system tries to make predictions on user
 
 There are basically two approaches to make recommendations:
 
-1.Collaborative filtering (or social filtering)
+1.Content-based filtering
 
-2.Content-based filtering
+2.Collaborative filtering (or social filtering)
 
 Content-based methods gives recommendations based on the similarity of two movie contents or attributes while collaborative methods make a prediction on posible preferences using a matrix with ratings on different songs.
 
